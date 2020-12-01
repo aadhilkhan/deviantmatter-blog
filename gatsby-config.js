@@ -8,7 +8,7 @@ module.exports = {
     description: `Design and Thinking for the Next Century.`,
     siteUrl: `https://deviantmatter.com/`,
     social: {
-      twitter: `imaadhilkhan`,
+      twitter: `aadhilkhan`,
     },
   },
   plugins: [
